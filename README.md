@@ -2,7 +2,7 @@
   <li>👋 Hi, I’m Abdullah.Ramadan aka @EngCode</li>
   <li>👀 I’m interested in Software Development and cant help my self with techonology exploring.</li>
   <li>🌱 I’m currently Leveling-Up My Skills in Back-End, WordPress, React, Headless CMS.</li>
-  <li>💞️ I’m looking to collaborate on any-interested tools/projects related to ui/ux and front-end development</li>
+  <li>💞️ I’m willing to collaborate on any-interested tools/projects related to ui/ux and front-end development</li>
   <li>📫 How to reach me
     <ul style="list-style:none;padding:0;margin:0;">
       <li>📞 Phone No  : +201122974539 [WhatsApp]</li>
